@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(19, 20, 20);
+  color: white;
+}
+
+.text{
+  color: white;
+}
+
+.table-header {
+  font-weight: 500;
+}
+
+
